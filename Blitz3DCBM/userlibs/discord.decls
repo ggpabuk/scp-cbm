@@ -1,0 +1,7 @@
+.lib "scp-rpc.dll"
+Discord_Update%():"RPC_UPDATE"
+Discord_SetState%(GameState$):"RPC_SET_STATE"
+Discord_SetDetails%(Details$):"RPC_SET_DETAILS"
+Discord_ResetTimer%():"RPC_RESET_TIMER"
+Discord_Close%():"RPC_CLOSE"
+Discord_Init%():"RPC_INIT"
